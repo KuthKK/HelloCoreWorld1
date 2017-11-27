@@ -1,0 +1,12 @@
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=HelloCoreWorld1
+--content-root=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1
+--file=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\Views\Home\About.cshtml
+--file=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\Views\Home\Contact.cshtml
+--file=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\Views\Home\Index.cshtml
+--file=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\Views\Shared\Error.cshtml
+--file=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\Views\Shared\_Layout.cshtml
+--file=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\Views\_ViewImports.cshtml
+--file=D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\Views\_ViewStart.cshtml

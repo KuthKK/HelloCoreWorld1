@@ -1,0 +1,10 @@
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\bin\Release\netcoreapp2.0\HelloCoreWorld1.deps.json
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\bin\Release\netcoreapp2.0\HelloCoreWorld1.runtimeconfig.json
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\bin\Release\netcoreapp2.0\HelloCoreWorld1.runtimeconfig.dev.json
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\bin\Release\netcoreapp2.0\HelloCoreWorld1.dll
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\bin\Release\netcoreapp2.0\HelloCoreWorld1.pdb
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\obj\Release\netcoreapp2.0\HelloCoreWorld1.csproj.CoreCompileInputs.cache
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\obj\Release\netcoreapp2.0\HelloCoreWorld1.AssemblyInfoInputs.cache
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\obj\Release\netcoreapp2.0\HelloCoreWorld1.AssemblyInfo.cs
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\obj\Release\netcoreapp2.0\HelloCoreWorld1.dll
+D:\Kuthutheen\Technical\Aspdotnet_Core\HelloCoreWorld1\HelloCoreWorld1\obj\Release\netcoreapp2.0\HelloCoreWorld1.pdb
